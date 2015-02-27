@@ -90,7 +90,7 @@ function wp_category_managementsettings_page()
 		}
 		?>
 		</div>
-	</div>   <!-----------End of widget-liquid-left div----------------------------->
+	</div>   
 
 	<div  id="widgets-left" class="widget-liquid-right">
 			<p class="description">Please check the pages where you want to display specifically the <br> Categories/Sub-categories list.<br>The widget is displayed only on the pages which you have checked</p>
@@ -114,8 +114,8 @@ function wp_category_managementsettings_page()
 							</div>
 			 </div>
 			 </div>
-	</div> <!-----------End of widget-liquid-right div----------------------------->
-	</div> <!---------------End of total div---------------->
+	</div> 
+	</div> 
 	<input name="save" type="submit" class="button button-primary button-large" value="Save">
 	</form>
 	</div>
